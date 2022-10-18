@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding='UTF-8'?>
+
+<ListaSignosNaOrdem>
+
+      <signo>
+            <dataComeco>21/03</dataComeco>
+            <dataFim>20/04</dataFim>
+            <NameSign>Áries</NameSign>
+            <significado>Se coloca em primeiro lugar, mas sem esquecer dos demais à sua volta! Motiva as pessoas e é prestativo, além de perseverante e apaixonado.</significado>
+      </signo>
+      <signo>
+            <dataComeco>21/04</dataComeco>
+            <dataFim>20/05</dataFim>
+            <NameSign>Touro</NameSign>
+            <significado>Cuidadoso com tudo e com todos, é paciente e produtivo. Desse modo, são pessoas em que se podem confiar e costumam ser muito fiéis.</significado>
+      </signo>
+      <signo>
+            <dataComeco>21/05</dataComeco>
+            <dataFim>21/06</dataFim>
+            <NameSign>Gêmeos</NameSign>
+            <significado>Animados e comunicativos, eles tem a mente aberta e são muito espertos.</significado>
+      </signo>
+      <signo>
+            <dataComeco>22/06</dataComeco>
+            <dataFim>22/07</dataFim>
+            <NameSign>Câncer</NameSign>
+            <significado>São dedicados e gentis, sempre ouvindo ou cuidando de alguém por perceberam suas emoções e problemas.</significado>
+      </signo>
+      <signo>
+            <dataComeco>23/07</dataComeco>
+            <dataFim>22/08</dataFim>
+            <NameSign>Leão</NameSign>
+            <significado>Inteligentes e corajosos, são líderes natos. Por outro lado, são expressivos e determinados: quando colocam algo na mente, pode ter certeza que vão até o fim para conquistá-la.</significado>
+      </signo>
+      <signo>
+            <dataComeco>23/08</dataComeco>
+            <dataFim>22/09</dataFim>
+            <NameSign>Virgem</NameSign>
+            <significado>Observação e eficiência são marcas do virginiano, que é bastante atencioso e sincero com os demais e está sempre resolvendo um problema: seja seu ou dos outros.</significado>
+      </signo>
+      <signo>
+            <dataComeco>23/09</dataComeco>
+            <dataFim>22/10</dataFim>
+            <NameSign>Libra</NameSign>
+            <significado>Extremamente diplomáticos, são sinceros e buscam ponderar sempre para chegar no melhor resultado. Para isso contam com sua simpatia, boa comunicação e tranquilidade.</significado>
+      </signo>
+      <signo>
+            <dataComeco>23/10</dataComeco>
+            <dataFim>21/11</dataFim>
+            <NameSign>Escorpião</NameSign>
+            <significado>De uma auto-confiança invejável (a não ser pelos leoninos…rs), têm muita intuição e um instinto protetor maravilhoso. São dedicados e apaixonados.</significado>
+      </signo>
+      <signo>
+            <dataComeco>22/11</dataComeco>
+            <dataFim>21/12</dataFim>
+            <NameSign>Sagitário</NameSign>
+            <significado>São talentosos, inteligentes e justos. São pessoas estimulantes, que gostam de se divertir e têm bastante espontaneidade e vitalidade.</significado>
+      </signo>
+      <signo>
+            <dataComeco>22/12</dataComeco>
+            <dataFim>19/01</dataFim>
+            <NameSign>Capricórnio</NameSign>
+            <significado>São persistentes e determinados. Sua organização e ambição natas fazem com que sejam muito eficientes e trabalhadores.</significado>
+      </signo>
+      <signo>
+            <dataComeco>20/01</dataComeco>
+            <dataFim>18/02</dataFim>
+            <NameSign>Aquário</NameSign>
+            <significado>Idealista e inventivo, o aquariano costuma ser tranquilo e justo, ao mesmo tempo que gosta de transformar e não se acomodar nas situações.</significado>
+      </signo>
+      <signo>
+            <dataComeco>19/02</dataComeco>
+            <dataFim>20/03</dataFim>
+            <NameSign>Peixes</NameSign>
+            <significado>Ouvintes natos, são confiáveis, intuitivos, prestativos e preocupados com os demais. São adaptáveis e simpáticos, os tornando bem sociáveis.</significado>
+      </signo>
+
+</ListaSignosNaOrdem>
